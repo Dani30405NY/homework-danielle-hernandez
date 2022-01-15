@@ -1,5 +1,4 @@
-package arrayhw;
-import java.util.*;
+package homework4.junit.arrayhw;
 import java.util.HashSet;
 //Array 1: 1, 3, 2, 4, 8, 9, 0
 //Array 2: 1, 3, 7, 5, 4, 0, 7, 5

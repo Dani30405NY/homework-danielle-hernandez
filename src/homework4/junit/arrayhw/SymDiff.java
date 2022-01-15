@@ -1,4 +1,4 @@
-package arrayhw;
+package homework4.junit.arrayhw;
 
 public class SymDiff {
 

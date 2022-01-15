@@ -1,4 +1,4 @@
-package arrayhw;
+package homework4.junit.arrayhw;
 import java.util.Arrays;
 
 //Array 1: 1, 3, 2, 4, 8, 9, 0

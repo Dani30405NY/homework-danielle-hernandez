@@ -1,4 +1,4 @@
-package arrayhw;
+package homework4.junit.arrayhw;
 
 //Array 1: 1, 3, 2, 4, 8, 9, 0
 //Array 2: 1, 3, 7, 5, 4, 0, 7, 5
