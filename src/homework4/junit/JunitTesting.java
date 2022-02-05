@@ -2,7 +2,7 @@ package homework4.junit;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class JunitTesting {
+public class fJunitTesting {
 
 
     @Test
